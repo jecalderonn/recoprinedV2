@@ -1,0 +1,12 @@
+>enable
+#configure terminal
+configure   # hostname routerA
+	# interface fastEthernet0/0
+	#ipadress _____ ______
+	#shutdown
+	#exit
+	
+	#interface serial 0/0
+	ipaddress
+	#shutdown
+	#iproute  origen, destino, salida
